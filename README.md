@@ -1,5 +1,3 @@
-# linux-labs-cybersecurity
-
 # Linux Labs – Cybersecurity Essentials
 
 A collection of hands-on labs to master Linux commands and tools relevant for cybersecurity professionals.
