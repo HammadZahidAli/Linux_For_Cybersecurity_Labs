@@ -6,4 +6,4 @@ A collection of hands-on labs to master Linux commands and tools relevant for cy
 
 - [Lab 1: Basic Terminal Navigation](Lab01-Terminal-Navigation.md)
 - [Lab 2: File and Directory Management](Lab02-File-Directory.md)
-- [Lab 8: Viewing File Contents]([Lab02-File-Directory.md](https://github.com/HammadZahidAli/linux-labs-cybersecurity/blob/main/Lab08-Viewing-File-Contents.md)
+- [Lab 8: Viewing File Contents](https://github.com/HammadZahidAli/linux-labs-cybersecurity/blob/main/Lab08-Viewing-File-Contents.md)
